@@ -1,6 +1,6 @@
 {
   "name": "Supply Line",
-  "icon": { "emoji": "🌾" },
+  "icon": { "image": "brand/icon.png", "emoji": "🌾" },
   "secrets": [],
   "tests": [
     { "name": "Main menu renders", "path": "/?demo=1", "expectSelector": "#main-menu" },
